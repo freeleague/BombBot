@@ -4,7 +4,7 @@ import requests
 import random
 from threading import Thread
 
-YOURTOKEN = input('1887255950:AAENUs7LI-R2uKnZIA9T7IDEOxdUo-leLzs')
+YOURTOKEN = input('1887255950:AAHtWKKNNFJcYrARJENUJOnOtTyRQWHU_Ng')
 
 bot = telebot.TeleBot(YOURTOKEN)
 ID = input('1623380569')
