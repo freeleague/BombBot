@@ -7,7 +7,7 @@ from threading import Thread
 YOURTOKEN = input('1887255950:AAENUs7LI-R2uKnZIA9T7IDEOxdUo-leLzs')
 
 bot = telebot.TeleBot(YOURTOKEN)
-ID = input('Ваш id: ')
+ID = input('1623380569')
 aid = (ID)
 
 if ID or bot:
